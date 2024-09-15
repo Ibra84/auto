@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"auto/models"
+	"auto/pkg/models"
 	"log"
 	"os"
 

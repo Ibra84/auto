@@ -1,8 +1,8 @@
 package main
 
 import (
-	"auto/handlers"
-	"auto/models"
+	"auto/pkg/handlers"
+	"auto/pkg/models"
 	"log"
 	"os"
 

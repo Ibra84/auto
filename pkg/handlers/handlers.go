@@ -1,8 +1,8 @@
 package handlers
 
 import (
-	"auto/communication"
-	"auto/models"
+	"auto/pkg/communication"
+	"auto/pkg/models"
 	"io"
 	"net/http"
 	"os"

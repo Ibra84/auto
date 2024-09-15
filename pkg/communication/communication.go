@@ -1,7 +1,7 @@
 package communication
 
 import (
-	"auto/models"
+	"auto/pkg/models"
 	"bytes"
 	"encoding/json"
 	"fmt"
